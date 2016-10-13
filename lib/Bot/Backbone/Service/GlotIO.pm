@@ -1,5 +1,5 @@
 package Bot::Backbone::Service::GlotIO;
-
+$Bot::Backbone::Service::GlotIO::VERSION = '0.001000';
 use v5.10;
 use Bot::Backbone::Service;
 
